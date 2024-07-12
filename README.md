@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Github+profile+page!;You+must+be+great+to+be+here!" />
 </p>
+<p align="center">
 
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -29,6 +30,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |==========='
 
+</p>
 <p align="center">
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->
