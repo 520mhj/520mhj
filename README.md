@@ -9,6 +9,26 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Github+profile+page!;You+must+be+great+to+be+here!" />
 </p>
 
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |==========='
+
 <p align="center">
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->
