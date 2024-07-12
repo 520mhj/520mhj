@@ -1,7 +1,8 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi there 👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=I am 520mhj!:shipit:&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!👋&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20520mhj!:shipit:&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
+
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+Github+profile+page!;You+must+be+great+to+be+here!)](https://git.io/typing-svg)
@@ -50,5 +51,5 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=A bug-free day&fontSize=90&fontAlign=50&fontAlignY=70&desc=The end wishes all the best&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=A%20bug-free%20day&fontSize=90&fontAlign=50&fontAlignY=70&desc=The%20end%20wishes%20all%20the%20best&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
